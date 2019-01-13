@@ -1,0 +1,1 @@
+Hold Shift to Check Multiple Checkboxes exercise from Wes Bos JavaScript 30 site.
