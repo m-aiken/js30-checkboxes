@@ -1,1 +1,1 @@
-Hold Shift to Check Multiple Checkboxes exercise from Wes Bos JavaScript 30 site.
+Select multiple checkboxes with the shift key. Exercise from Wes Bos JavaScript 30 site.
